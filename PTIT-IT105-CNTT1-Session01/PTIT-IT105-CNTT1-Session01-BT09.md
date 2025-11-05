@@ -9,7 +9,7 @@
 - Phân tích vùng giao hàng chậm, tối ưu tuyến đường -> DSS (Decision Support System – hỗ trợ ra quyết định).  
 - Cung cấp bảng điều khiển cho CEO -> EIS (Executive Information System – thông tin tổng hợp cấp cao).
 ## 3. Mô hình phát triển phần mềm đề xuất
-- Mô hình Spiral (Xoắn ốc)
+- Mô hình Spiral (Xoắn ốc):
     - Hệ thống phức tạp, nhiều rủi ro về bảo mật, độ tin cậy và quy mô dữ liệu lớn.  
     - Cần kết hợp giữa phân tích rủi ro, thử nghiệm và cải tiến liên tục.  
     - Thích hợp với hệ thống yêu cầu an toàn và chính xác cao trong từng vòng phát triển.
