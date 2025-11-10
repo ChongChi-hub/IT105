@@ -1,4 +1,4 @@
-# 🧩 Phân loại Stakeholders cho Hệ thống Quản Lý Bán Lẻ
+# Phân loại Stakeholders cho Hệ thống Quản Lý Bán Lẻ
 
 | **Vai trò** | **Ví dụ Stakeholder cụ thể** | **Mối quan tâm / Mục tiêu** | **Trách nhiệm / Ảnh hưởng** |
 |--------------|-------------------------------|-------------------------------|-------------------------------|
